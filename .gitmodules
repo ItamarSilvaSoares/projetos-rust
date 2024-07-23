@@ -1,0 +1,3 @@
+[submodule "01_rename_notes"]
+	path = 01_rename_notes
+	url = https://github.com/ItamarSilvaSoares/01_rename_notes.git
