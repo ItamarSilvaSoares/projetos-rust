@@ -1,3 +1,6 @@
 [submodule "01_rename_notes"]
 	path = 01_rename_notes
 	url = https://github.com/ItamarSilvaSoares/01_rename_notes.git
+[submodule "02_explore_axum_api"]
+	path = 02_explore_axum_api
+	url = https://github.com/ItamarSilvaSoares/explore-axum-api.git
